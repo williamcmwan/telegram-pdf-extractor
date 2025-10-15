@@ -2,7 +2,7 @@
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/yourusername/telegram-pdf-extractor)
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/williamcmwan/telegram-pdf-extractor)
 
 A comprehensive solution to extract PDF files from Telegram channels and import existing PDFs with automatic Calibre integration and intelligent metadata extraction.
 
@@ -398,7 +398,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/telegram-pdf-extractor.git
+git clone https://github.com/williamcmwan/telegram-pdf-extractor.git
 cd telegram-pdf-extractor
 python3 -m venv venv
 source venv/bin/activate
@@ -417,6 +417,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/telegram-pdf-extractor/issues)
+- **Issues**: [GitHub Issues](https://github.com/williamcmwan/telegram-pdf-extractor/issues)
 - **Documentation**: This README contains comprehensive guides
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/telegram-pdf-extractor/discussions)
+- **Discussions**: [GitHub Discussions](https://github.com/williamcmwan/telegram-pdf-extractor/discussions)
